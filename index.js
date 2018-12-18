@@ -196,7 +196,7 @@ let	possibilitiesCount = 0;
 			content =
 			'#################################################\n' +
 			'# Produced by Possible Wordz                    #\n' +
-			'# https://mahdimeraji07.github.io/possiblewordz #\n' +
+			'# https://madmadi.github.io/possiblewordz #\n' +
 			'#################################################\n\n' + content;
 
 			let file = new Blob([ content ], { type });
